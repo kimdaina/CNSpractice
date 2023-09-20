@@ -1,0 +1,100 @@
+header{
+  height: 2cm;
+  width:100vw;
+  box-shadow: 5px 5px 5px rgba(100,100,100,30%);
+}
+
+#CNS {
+  padding-top: 15px;
+  padding-left: 1vw;
+  font-size: 40px;
+  font-weight: bold;
+  color: #4f71f8;
+}
+
+#HeaderB{
+  text-align: center;
+  margin-left: 50vw;
+  display: inline;
+}
+
+.ClearA{
+  border: 0;
+  background-color: transparent;
+  padding-left: 5vw;
+  box-sizing: border-box;
+}
+
+#Sq{
+  margin-top: 10vh;
+  margin-left: 35vw;
+  height: 70vh;
+  width: 30vw;
+  border: rgba(100,100,100,40%) solid 2px;
+  border-radius: 20px;
+}
+
+div{
+  text-align: center;
+}
+
+#Care{
+  font-size: 1.3vw;
+  padding-top: 10vh;
+  color: #4f71f8;
+  font-weight: bold;
+  line-height:30px;
+}
+
+#Login{
+  font-size:2vw;
+  font-weight: bold;
+}
+
+input{
+  width:25vw;
+  height: 5vh;
+  margin-bottom: 1vw;
+  outline:none;
+  box-shadow:none;
+  background-color: transparent;
+  border: 1.5px solid rgba(0, 0, 0, 0.23);
+  border-radius: 7px;
+  padding-left:5px;
+
+}
+
+.idHeader{
+  text-align: left;
+  margin-left: 2.5vw;
+  font-weight: bold;
+  color: #4f71f8;
+  font-size:1.5vh;
+}
+
+.border{
+  margin-top: 5vw;
+}
+
+#idB{
+  width:13vw;
+  height: 6vh;
+  border-radius: 6vw;
+  font-size: 2vh;
+  font-weight: bold;
+  color: white;
+  background-color: #4f71f8;
+  border: 0;
+  margin-top: 2vw;
+}
+
+#hover{
+  font-size:0.8vw;
+  font-weight: bolder;
+  margin-top: 1vh;
+  color:#4f71f8;
+}
+#hover:hover{
+  color: #0033ff;
+  cursor: pointer;
+}
